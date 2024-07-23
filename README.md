@@ -1,6 +1,6 @@
 # 游戏发售表.ics
 
-在日历app中，通过网址订阅：https://398352614.github.io/game.ics/game.ics，就可以获得全平台游戏发售时刻表
+在日历app中，通过网址订阅：https://398352614.github.io/game.ics/game.ics
 
 信息来源，游民星空，侵删。
 
